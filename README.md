@@ -34,11 +34,6 @@
 - `Lab 20 - Line Charts-v1.ipynb`
 - `Lab 21 - Bar-v1.ipynb`
 
-**Jobs API:**
-- `jobs-api/Collecting_Jobs_data_Using_API-Questions.ipynb`
-- `jobs-api/Jobs_API.ipynb`
-- `jobs-api/jobs.json` (~12MB - use Git LFS)
-
 ## Key Skills Demonstrated
 ### Phase 1: Data Collection
 - Web scraping (BeautifulSoup, requests)
