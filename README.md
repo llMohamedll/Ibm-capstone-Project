@@ -45,7 +45,7 @@ SciPy, scikit-learn, Requests, BeautifulSoup)
 3. **Demographics**: age distribution, country map, education level,
    age by education level
 
-Screenshots: see the `screenshots/` folder.
+Screenshots: see the `.pptx file` folder.
 
 ## Deliverables
 - `Data Analyst Capstone Project Report.pptx`: presentation with charts and insights
